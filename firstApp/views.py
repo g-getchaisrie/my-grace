@@ -12,4 +12,4 @@ def displayDateTime(request):
     return HttpResponse(s)
 
 def displayQuote(request):
-    return HttpResponse("<b>Your favorite quote goes here!</b>")  # Update with your quote
+    return HttpResponse("<b>The best investment we can make is in ourselves. - Warren Buffett</b>")  # Update with your quote
